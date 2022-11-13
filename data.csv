@@ -1,0 +1,85 @@
+,,,,,,,,,,
+<512kB!,,,,,,,,,,
+,,,svt1,svt2,svt3,,,,,
+CompTIA,prs,a5,,,,"svt7,19,6",6,https://www.linkedin.com/company/comptia/people/, https://www.comptia.org ,06.08.2020
+tesla,prs 33 111,a5,,,,"svt ,,6",https://www.linkedin.com/company/tesla-motors/ ,,,06.08.2020
+,prs,,,,,,https://www.linkedin.com/company/seniorexecutiveofficer/ ,,,06.08.2020
+Thrive Global,a6,, ,,,,https://www.linkedin.com/in/ariannahuffington/,,,05.08.2020
+insider,,,,21,21,,,,,21.10.2020
+Geode,prs,a5,,,,"svt6,19,2",6,https://geode.apache.org, https://www.comptia.org ,28.10.2022
+tidb,prs,a5,,,,"svt6,19,2",,https://geode.apache.org, https://www.comptia.org ,28.10.2022
+objectbox,prs,a5,,,,"svt6,19,2",https://dbdb.io/db/objectbox,https://objectbox.io,https://docs.objectbox.io,28.10.2022
+objectbox,prs,a5,,,,"svt6,19,2",https://swift.objectbox.io/getting-started,swift ios,,28.10.2022
+couchbase,prs,a5,,,,"svt6,19,2",https://docs.couchbase.com/sync-gateway/current/index.html,swift ios,,28.10.2022
+sync-with-couchbase-server,,,,,,,https://docs.couchbase.com/sync-gateway/current/sync-with-couchbase-server.html,swift ios,,28.10.2022
+couchbase lite mobile,,,,,,,https://docs.couchbase.com/couchbase-lite/current/swift/quickstart.html,swift ios,,28.10.2022
+couchbase-lite-mobile-json-data,,,,,,,https://docs.couchbase.com/couchbase-lite/current/swift/document.html#lbl-json-data,swift ios,,28.10.2022
+couchbase-lite-mobile-json-data-tutorial,,,,,,,https://docs.couchbase.com/tutorials/mobile-travel-tutorial/introduction.html,swift ios,,28.10.2022
+apple,,,,,,,https://4pda.to/2022/10/27/405554/vyshli_pervye_bety_ios_i_ipados_16_2_chto_novogo/,swift ios,,28.10.2022
+docer,,,,,,,https://jsonplaceholder.typicode.com,,,01.11.2022
+docer,,,,,,,https://github.com/typicode/lowdb,,,01.11.2022
+docer,,,,,,,https://github.com/typicode/json-server,,,01.11.2022
+docer,,A4,,,,,https://ru.wikipedia.org/wiki/TypeScript,,,01.11.2022
+docer,,A4,,,,,https://www.typescriptlang.org,,,01.11.2022
+docer,,A2,,,,,https://www.typescriptlang.org/docs/handbook/intro.html,,,01.11.2022
+GEODE,,A2√,s6,data engine,,,https://cwiki.apache.org/confluence/display/GEODE/Index#Index-Geodein5minutesGeodein5minutes,GemFire,REST API homebrew on OSX,01.11.2022
+docer GEODE,,A2A4√,s6,data engine,,,Spring Framework,,,01.11.2022
+GEODE,,A2√√,s6,data engine,,,https://cwiki.apache.org/docs,,,01.11.2022
+docer,,A9A2A4√,s6,data engine,,,https://developer.apple.com/documentation/foundation/uuid,swift UUID,,01.11.2022
+GEODE rest_api,,A2A4√,s6,data engine,,,https://geode.apache.org/docs/guide/114/rest_apps/rest_api_reference.html,rest_api_reference,,01.11.
+market,,A2A4√,s9t38,,,,https://hi-tech.mail.ru/news/60265-kak-platit-kartoy-sbera-s-ayfona-v-rossii-instrukciya/,,,01.11.2022
+market rest_api,,A2A4√,s9t38,,,,https://gist.github.com/unbracketed/3380407,,,01.11.2022
+market rest_api,,A2A4√,s9t38,,,,https://www.gastronom.ru/recipe/22114/spagetti-boloneze,,,02.11.2022
+market rest_api,,A2A4√,svt,,,,https://github.com/trending,,,02.11.2022
+market github projects,,A14√,svt,,,,https://docs.github.com/en/issues/planning-and-tracking-with-projects,,,02.11.2022
+market rest_api,,A14√,svt,,,,event,,,02.11.2022
+market rest_api,,A14A6√,svt5,,,,ABNF,,,02.11.2022
+market rest_api,,A14A6√,svt5,,,,ApacheConf,,,02.11.2022
+market rest_api,,A14√,svt5,,,,https://apiblueprint.org,,,02.11.2022
+market rest_api,,A14√,svt5,,,,https://avro.apache.org/docs/1.10.2/idl.html:Avro IDL,,,02.11.2022
+market,,A14√,svt5,,,,https://avro.apache.org/docs/1.10.2/idl.html:Avro IDL,,,02.11.2022
+market,,A14√,svt13,,,,https://www.gastronom.ru/recipe/group/3086/recepty-s-midiyami,,,02.11.2022
+market,,A2:A4,svt2,,,,https://developers.google.com/identity/protocols/oauth2,,,04.11.2022
+market,,A2:A4,svt2,,,,https://github.com/apple/swift-nio,,,04.11.2022
+market,,A2:A4,svt2,,,,https://opensource.apple.com/projects/swiftnio/,,,04.11.2022
+market,,A2:A4,svt2:t26,,,,https://apple.github.io/swift-nio/docs/current/NIOCore/index.html,,,04.11.2022
+market,,A2:A19:%,svt,,,,https://opensource.apple.com/projects/,,,04.11.2022
+market,,A2:%,svt,note,,,swiftio,,,04.11.2022
+market,,A2:%,s26:vt3,,,,https://opensource.apple.com/projects/foundationdb/,,,04.11.2022
+market,,A2:%,s26:vt3:t26,,,,https://apple.github.io/foundationdb/,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,note,,,https://apple.github.io/foundationdb/contents.html,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,er404,,,https://www.foundationdb.org/blog/official-swift-bindings-for-foundationdb/,,,04.11.2022
+market,,A2:%:√,s7:v35:t2:t26,Website from a repository on GitHub.com.website building tools like Jekyll,,,https://docs.github.com/en/pages,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,swift&...,,,https://www.programmableweb.com/sdk/foundationdb-swift-sdk-nuno-maia,,,04.11.2022
+https://opensource.apple.com/projects/cassandra/,,A2:%:√,s26:vt3:t26,Swift&...,,,https://cassandra.apache.org/_/index.html,,,04.11.2022
+https://opensource.apple.com/projects/cassandra/,,A2:%:√,s26:vt3:t26,Swift&...,,,https://cassandra.apache.org/_/ecosystem.html,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,https://aws.amazon.com/ru/keyspaces/,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,https://learn.microsoft.com/en-us/azure/cosmos-db/cassandra/introduction,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,https://github.com/strapdata/elassandra,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,https://console.cloud.google.com/storage/browser?project=anbgmail-179522&prefix=,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,Apache Drill,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,Apache Flink,,,04.11.2022
+https://cassandra.apache.org/_/ecosystem.html,,A2:%:√,s26:vt3:t26,Swift&...,,,Apache Pulsar,,,04.11.2022
+
+https://kean.blog/post/api-client docer,,A2:%:√,svt,Swift&...,,,https://github.com/SwiftyJSON/SwiftyJSON,,,05.11.2022
+https://kean.blog/post/api-client docer,,A2:%:√√,svt,Swift&...,,,https://github.com/Alamofire/Alamofire,,,05.11.2022
+market,,A2:%:√,svt,Swift&...,,,RxSwift,,,05.11.2022
+market,,A2:%:√,svt,Swift&...,,,https://github.com/ReactiveCocoa/ReactiveSwift,,,05.11.2022
+
+market,,A2:%100:√,svt,olive,,,https://www.gastronom.ru/recipe/31788/olive-klassicheskij,,,05.11.2022
+
+JSONGenerator,,A,wiftbook,,A23,svt,alamofire,,,https://youtu.be/tbMkhZ4Q2Oc,,,06.11.2022svt,note,,,https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_class_System_JsonGenerator.htm,,,06.11.2022
+swiftbook,,A23,svt,alamofire,,,https://youtu.be/tbMkhZ4Q2Oc,,,06.11.2022
+docer,,A,svt,playground import package,,,https://github.com/finestructure/Arena,,,06.11.2022
+https://mermaid-js.github.io/mermaid/#/
+docer,,A,svt,playground import package,,,https://useyourloaf.com/blog/using-swift-packages-in-playgrounds/,,,06.11.2022
+docer,,A,svt,playground import package,,,https://useyourloaf.com/blog/creating-swift-packages-in-xcode/,,,06.11.2022
+load to table,,A23,svt,alamofire,,,https://youtu.be/lm5okiW_ETc,,,07.11.2022
+market,,A23,svt,изменение в swift 5.0,,,url,,,10.11.2022
+docer,,A2:%:√,svt,swift-playgrounds-4 spm,,,https://www.hackingwithswift.com/articles/244/swift-playgrounds-4,,,07.11.2022
+docer,,A2:%:,svt,swiftui-playgrounds-4,,,https://www.hackingwithswift.com/articles/245/build-your-first-swiftui-app-with-swift-playgrounds,,,07.11.2022
+https://rusavangard.ru/
+market,,A23,svt,kanna swift 5.0,,,https://youtu.be/Z5rq3DZpYtQ,,,10.11.2022
+market,,A23,svt,nsurlsession html swift 5.0,,,https://youtu.be/pakA1vNvTCE,,,10.11.2022
+market,,A23,svt,kanna swift 5.0,,,https://cocoacasts.com/working-with-nsurlcomponents-in-swift,,,10.11.2022
+market,,A23,svt,kanna swift 5.0,,,https://youtu.be/NQpw7t84m4E,,,13.11.2022
