@@ -47,3 +47,8 @@ market,,A2:A19:%,svt,,,,https://opensource.apple.com/projects/,,,04.11.2022
 market,,A2:%,svt,note,,,swiftio,,,04.11.2022
 market,,A2:%,s26:vt3,,,,https://opensource.apple.com/projects/foundationdb/,,,04.11.2022
 market,,A2:%,s26:vt3:t26,,,,https://apple.github.io/foundationdb/,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,note,,,https://apple.github.io/foundationdb/contents.html,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,er404,,,https://www.foundationdb.org/blog/official-swift-bindings-for-foundationdb/,,,04.11.2022
+market,,A2:%:√,s7:v35:t2:t26,Website from a repository on GitHub.com.website building tools like Jekyll,,,https://docs.github.com/en/pages,,,04.11.2022
+market,,A2:%:√,s26:vt3:t26,swift&...,,,https://www.programmableweb.com/sdk/foundationdb-swift-sdk-nuno-maia,,,04.11.2022
+https://opensource.apple.com/projects/cassandra/,,A2:%:√,s26:vt3:t26,Swift&...,,,https://cassandra.apache.org/_/index.html,,,04.11.2022
