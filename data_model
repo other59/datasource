@@ -1,0 +1,64 @@
+[
+{
+    "dataset": ["-", "-", "{content}", "{product}", "null", "-", "-", "-", ""],
+    "class": [{
+        "$numberInt": "0"
+    },
+	  "1_actor", "2_resource", "3_content(action)", "4_product", "5_payments(group)", "6_budget(group)", "7_invest(group)", "8_project", "", "10_data", "11_exdata", "12_masterplan"],
+    
+	 "act": 
+	 ["-", "01_audit", "02_read", "03_analysis", "04_code", "05_learn", "06_dload", "07_bay", "08_move", "09_search", "10_memo", "11_определить type", "12_help", "13_plan(depricate)", "14_question", "15_support", "16_startup", "17_доля", "18_invest", "19_next", "20_use", "21_create(+) ", "22_rename(+) ", "23_view(+)", "24_оформить(+)", "25_export(+)", "26_listen(+)", "27_marked(++)(marketing 26.9.20)"],"28_delivery(++)","29_enroll(++)"],
+    
+	 "sector": 
+	 ["00_агро", "01_быт", "02_гсм", "03_отходы", "04_промышленность", "05_энергетика", "06_практика", "07_цифра", "08_материал", "09_финансы", "10_транспорт", "11_import", "12_ресурсы", "13_страхование", "14_продукт", "15_культура", "16_продукты", "17_строительство", "18_продукты", "19_питание", "20_гигиена", "21_туризм", "22_химия(restored)", "23_invest(+)", "24_farma", "25_нефтехимия", "26_data"],
+	 
+    "vector":
+	 ["00_упаковка*", "01_выбрать vector", "02_изучить рынок()", "03_актив", "04_доставка*", "05_хранение*", "06_вывоз", "07_перевозка*", "08_ремонт", "09_консультации", "10_переработка", "11_пошив", "12_окраска", "13_изготовление", "14_производство", "15_уборка", "16_обучение", "17_питание", "18_торговля", "19_практика", "20_hr", "21_сми", "22_переработка", "23_marketing(new)", "24_management(new)", "25_service(new)", "35_web(new)", "27_invest(new)"],
+    "type": 
+	 ["00_task", "01_actor brief", "02_soft", "03_database", "04_raw material(product 5.9.20)", "05_lang", "06_company", "07_ content", "08_event", "09_resource", "10_invest", "11_металл", "12_dataset", "13_продукты", "14_query engine", "15_video", "16_торговля", "17_exhibition", "18_idea", "19_service", "20_project(переработка)", "21_resource", "22_code (class)", "23_databuffer_marketing", "24_code (Structure)", "25_code (Playground)", "26_doc", "27_forum", "28_code (proto)", "29_App Frameworks", "30_ Comparison", "31_format", "32_datacontainer(new)", "33_appex", "34_bank", "35_mail", "36_gajet", "37_tutor", "38_card", "39_protocol", "40_map", "41_site", "42_excurce", "43_resume", "44_termin(+)", "45_state(+)", "46_country(+)"],
+	 
+    "status": 
+	 [""],
+    "dicex": 
+	 ["revenue", "profit"],
+    "cur": [""]
+}
+
+],
+{
+a9
+cloud data
+a9 DaaS vendors
+
+a27,a8
+Google Data Studio(Adwords, Attribution 360)
+
+a9 datacenter vendors]
+
+a9 webhost vendors
+},
+
+https://help.apple.com/xcode/mac/10.2/
+https://docs.atlas.mongodb.com/getting-started/
+https://account.mongodb.com/account/register
+ 
+ОКРВВЕРХ(МЕСЯЦ(J4)÷3);1)
+ОКРВВЕРХ(МЕСЯЦ(J4)÷3,1)
+МЕСЯЦ(J4))/
+ОКРВВЕРХ(МЕСЯЦ(J4)÷3,1)&год(J4))
+regex
+https://support.apple.com/ru-ru/guide/functions/ffac65c37db4/10.1/web/1.0
+https://developer.apple.com/documentation/technologies
+RN85FHWHKD cloudkit creating New Container Unable to find a developer
+https://developer.apple.com/forums/register?path=%2Fthread%2F651070&termsAndConditions=true
+cloudkit. creating New Container in dashboard. help	me please?
+https://stackoverflow.com/questions/25938667/cloudkit-dashboard-says-i-have-no-icloud-containers-but-i-have-already-created
+
+TechCrunch
+https://ru.wikipedia.org/wiki/TechCrunch
+techcrunch Newsletters sign in
+https://techcrunch.com/newsletters?_ptid=%7Bjcx%7DH4sIAAAAAAAAAFWRSW_bMBCF_wvPJsDdpG5OvKWBY6BQ3AZFDhQ1lujIsiBRXlrkv5cSusA8EBy-9w2Gj7-Q9TlK0PI2XTbF7fU6QxPU2AJ2Hi5Pg8III5gYTDSmEguOqcBcx6v249thtVQ7-VWXumox1Tm43OZMKyFA5TYDQ5mUVjNKTW5jY7g20HqoHYytF9_X9Oltuf6Sstc7dXEF1wd_qkcb1USrUPBMYBIXCzyv68JpIZk3lhxseajEHT9z_-CuPF1SODaVDaCe54yY9GH9vN1u00VEStv9FVES2h4mKPypR3qbzuePb_plszEb9F_b2dbbOgyWuq-qCXL22Fhf1B1KfqDydIQhwnDqQ0KlMVJpYwTXAr1P0Nl3fiTRGd9ny2OwUzydSpw_3sx5dfn58NK33KxSzI1Re3CQGQChiFN7I-Vecm2kI3tC4my-GT7LEplMQfOEE5I4FbeM2iwRPHOJFcASGk_R3XfQzgqoQ4TyYze8LVRonFZJyY34_A3_PEQJGgIAAA
+
+smart home/homekit
+koogeek,lifx,phillips hue
+https://yandex.ru/maps/org/nikolo_arkhangelskoye_kladbishche/1263728158/?ll=37.894761%2C55.742812&z=14.47
