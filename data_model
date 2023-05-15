@@ -7,7 +7,7 @@
 	  "1_actor", "2_resource", "3_content(action)", "4_product", "5_payments(group)", "6_budget(group)", "7_invest(group)", "8_project", "", "10_data", "11_exdata", "12_masterplan"],
     
 	 "act": 
-	 ["-", "01_audit", "02_read", "03_analysis", "04_code", "05_learn", "06_dload", "07_bay", "08_move", "09_search", "10_memo", "11_определить type", "12_help", "13_plan(depricate)", "14_question", "15_support", "16_startup", "17_доля", "18_invest", "19_next", "20_use", "21_create(+) ", "22_rename(+) ", "23_view(+)", "24_оформить(+)", "25_export(+)", "26_listen(+)", "27_marked(++)(marketing 26.9.20)"],"28_delivery(++)","29_enroll(++)","30_cook(++)"],
+	 ["-", "01_audit", "02_read", "03_analysis", "04_code", "05_learn", "06_dload", "07_bay", "08_move", "09_search", "10_memo", "11_определить type", "12_help", "13_plan(depricate)", "14_question", "15_support", "16_startup", "17_доля", "18_invest", "19_next", "20_use", "21_create(+) ", "22_rename(+) ", "23_view(+)", "24_оформить(+)", "25_export(+)", "26_listen(+)", "27_marked(++)(marketing 26.9.20)"],"28_delivery(++)","29_enroll(++)","30_cook(++)","30_cook(++)"],
     
 	 "sector": 
 	 ["00_агро", "01_быт", "02_гсм", "03_отходы", "04_промышленность", "05_энергетика", "06_практика", "07_цифра", "08_материал", "09_финансы", "10_транспорт", "11_import", "12_ресурсы", "13_страхование", "14_продукт", "15_культура", "16_продукты", "17_строительство", "18_продукты", "19_питание", "20_гигиена", "21_туризм", "22_химия(restored)", "23_invest(+)", "24_farma", "25_нефтехимия", "26_data"],
