@@ -13,7 +13,7 @@
   "action":0,
   "pmt":["",0.0]
  },
-  {"name":"fmp code 4 read file",
+  {"name":"fmp code 4 read file || https://codeswift.ru/create-your-own-service-manager-in-swift/",
   "type":0,
   "actor":4,
   "url":"",
@@ -29,8 +29,15 @@
  },
   {"name":"file.json>100mb",
   "type":0,
-  "actor":9,
+  "actor":0,
   "url":"repos/api/readme.md/work with files.vA9 blob",
+  "action":0,
+  "pmt":["",0.0]
+ },
+  {"name":"document-sharing & Seismic",
+  "type":0,
+  "actor":0,
+  "url":"https://github.com/other59/actions/issues/380",
   "action":0,
   "pmt":["",0.0]
  }
