@@ -42,40 +42,40 @@
   "pmt":["",0.0],
   "status":{"mark":true}
  },
-  {"source":"RBK"
-  "name":"broadcom",
-  "type":0,
-  "actor":0,
-  "url":"",
-  "action":0,
-  "pmt":["",0.0],
-  "status":{"mark":true}
- },
-  {"source":"RBK"
+  {"source":"RBK",
   "name":"nvidia",
-  "type":0,
+  "type":51,
   "actor":0,
   "url":"",
   "action":0,
   "pmt":["",0.0],
-  "status":{"mark":true}
+  "status":{"mark":true,"cur":"$"}
  },
-  {"source":"RBK"
+  {"source":"RBK",
   "name":"broadcom",
-  "type":0,
+  "type":51,
   "actor":0,
   "url":"",
   "action":0,
   "pmt":["",0.0],
-  "status":{"mark":true}
+  "status":{"mark":true,"cur":"$"}
  },
-  {"source":"RBK"
+  {"source":"RBK",
   "name":"1",
-  "type":0,
+  "type":51,
   "actor":0,
   "url":"",
   "action":0,
   "pmt":["",0.0],
   "status":{"mark":true,"cur":"HK$"}
+ },
+  {"source":"GH Actions",
+  "name":"AlibabaCloud",
+  "type":4,
+  "actor":0,
+  "url":"",
+  "action":0,
+  "pmt":["",0.0],
+  "status":{"mark":true,"cur":""}
  }
 ]
