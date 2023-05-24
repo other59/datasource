@@ -1,46 +1,57 @@
 [
-  {"name":"",
+  {"source":"",
+  "name":"",
   "type":0,
   "actor":0,
   "url":"",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+   "status":{"tag":"","mark":true,"cur":""}
  },
-  {"name":"",
+  {"source":"",
+  "name":"",
   "type":0,
   "actor":0,
   "url":"",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+   "status":{"tag":"","mark":true,"cur":""}
  },
-  {"name":"fmp code 4 read file || https://codeswift.ru/create-your-own-service-manager-in-swift/",
+  {"source":"",
+  "name":"fmp code 4 read file || https://codeswift.ru/create-your-own-service-manager-in-swift/",
   "type":0,
   "actor":4,
   "url":"",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+   "status":{"tag":"","mark":true,"cur":""}
  },
- {"name":"json encpde/decode",
+ {"source":"",
+  "name":"json encpde/decode",
   "type":0,
   "actor":9,
   "url":"https://programmingwithswift.com/how-to-convert-dictionary-to-json-with-swift/",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+   "status":{"tag":"","mark":true,"cur":""}
  },
-  {"name":"file.json>100mb",
+  {"source":"RBK",
+    "name":"file.json>100mb",
   "type":0,
   "actor":0,
   "url":"repos/api/readme.md/work with files.vA9 blob",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+   "status":{"tag":"","mark":true,"cur":""}
  },
-  {"name":"document-sharing & Seismic",
+  {"source":"",
+  "name":"document-sharing & Seismic",
   "type":0,
   "actor":0,
   "url":"https://github.com/other59/actions/issues/380",
   "action":0,
   "pmt":["",0.0],
-  "status":{"mark":true}
+  "status":{"tag":"","mark":true,"cur":""}
  },
   {"source":"RBK",
   "name":"nvidia",
@@ -49,7 +60,7 @@
   "url":"",
   "action":0,
   "pmt":["",0.0],
-  "status":{"mark":true,"cur":"$"}
+ "status":{"tag":"","mark":true,"cur":""}
  },
   {"source":"RBK",
   "name":"broadcom",
@@ -58,7 +69,7 @@
   "url":"",
   "action":0,
   "pmt":["24-05-23",680.94],
-  "status":{"mark":true,"cur":"$"}
+  "status":{"tag":"","mark":true,"cur":""}
  },
   {"source":"RBK",
   "name":"1",
@@ -67,7 +78,7 @@
   "url":"",
   "action":0,
   "pmt":["",0.0],
-  "status":{"mark":true,"cur":"HK$"}
+  "status":{"tag":"","mark":true,"cur":""}
  },
   {"source":"GH Actions",
   "name":"AlibabaCloud",
