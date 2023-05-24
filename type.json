@@ -2,10 +2,10 @@
   {"0":"00_task"}
   ],
 [
-  {1:"01_actor brief"},
-  {2:"02_soft"},
-  {3:"03_database"},
-  {4:"04_raw material(product 5.9.20)"},
+  {"1":"01_actor brief"},
+  {"2":"02_soft"},
+  {"3":"03_database"},
+  {"4":"04_raw material(product 5.9.20)"},
   {5:"05_lang"},
   {6:"06_company"},
   {7:"07_ content"},
