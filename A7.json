@@ -39,6 +39,7 @@
   "actor":0,
   "url":"https://github.com/other59/actions/issues/380",
   "action":0,
-  "pmt":["",0.0]
+  "pmt":["",0.0],
+  "status":{"mark":true}
  }
 ]
