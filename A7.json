@@ -117,11 +117,11 @@
   "status":{"tag":"API","mark":true,"cur":""}
  },
    {"source":"BudgetObject",
-  "name":"url creation",
+  "name":"url creation as string",
   "type":37,
   "actor":0,
   "url":"ipadANB/urlCrt",
-  "action":0,
+  "action":10,
   "pmt":["25-05-23",0.0],
   "status":{"tag":"","mark":true,"cur":""}
  },
