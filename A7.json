@@ -67,9 +67,9 @@
   "type":51,
   "actor":0,
   "url":"",
-  "action":0,
-  "pmt":["24-05-23",680.94],
-  "status":{"tag":"","mark":true,"cur":""}
+  "action":7,
+  "pmt":["24-05-23",680.94,"25-05-23",692.21],
+  "status":{"tag":"A7me","mark":true,"cur":"Usd"}
  },
   {"source":"RBK",
   "name":"1",
