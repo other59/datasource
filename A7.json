@@ -122,7 +122,7 @@
   "actor":0,
   "url":"ipadANB/urlCrt",
   "action":0,
-  "pmt":["25-05-23",0.0],
+  "pmt":["25-05-23","a4",0.0],
   "status":{"tag":"","mark":true,"cur":""}
  }
 ]
