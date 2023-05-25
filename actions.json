@@ -2,8 +2,7 @@
      "01_audit",
      "02_read",
      "03_analysis",
-     "04_code"]
-
+     "04_code",
      "05_learn",
      "06_dload",
      "07_bay",
@@ -26,7 +25,7 @@
      "24_оформить(+)",
      "25_export(+)",
      "26_listen(+)",
-     "27_marked(++)(marketing 26.9.20)"],
+     "27_marked(++)(marketing 26.9.20)",
      "28_delivery(++)",
      "29_enroll(++)",
      "30_cook(++)",
