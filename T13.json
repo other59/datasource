@@ -1,9 +1,14 @@
-[{"name":"table moved on A7"},
+[
 {"name": "ColorLine",
- "price": 0,
- "type": 1,
+ "type": 13,
  "actor": 1,
  "url":"wb",
- "action": 8,
+ "action": 7,
+ "pmnt": ["dateDefault: Value(price: 0, count: 1)"]},
+{"name": "table moved on A7",
+ "type": 13,
+ "actor": 1,
+ "url":"wb",
+ "action": 7,
  "pmnt": ["dateDefault: Value(price: 0, count: 1)"]}
 ]
