@@ -7,9 +7,9 @@
 },
 {"name": "ColorLine",
  "price": 0,
- type: 1,
- actor: 1,
- url:"wb",
- action: 8,
- pmnt: ["dateDefault: Value(price: 0, count: 1)"]}
+ "type": 1,
+ "actor": 1,
+ "url":"wb",
+ "action": 8,
+ "pmnt": ["dateDefault: Value(price: 0, count: 1)"]}
 ]
