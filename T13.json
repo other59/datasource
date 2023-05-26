@@ -10,5 +10,13 @@
  "actor": 1,
  "url":"https://www.wildberries.ru/catalog/41020810/detail.aspx?targetUrl=GP&size=82650445",
  "action": 7,
- "pmnt": ["dateDefault: Value(price: 0, count: 1)"]}
+ "pmnt": ["dateDefault: Value(price: 0, count: 1)"]
+},
+{"name": "coffee machine. filter",
+ "type": 13,
+ "actor": 1,
+ "url":"https://www.wildberries.ru/catalog/41020810/detail.aspx?targetUrl=GP&size=82650445",
+ "action": 7,
+ "pmnt": ["dateDefault: Value(price: 0, count: 1)"]
+}
 ]
