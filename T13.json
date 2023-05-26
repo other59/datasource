@@ -4,5 +4,12 @@
  "note1":"универсальный столик на ножках",
 "svt":"1,0.0",
 "price":930.0
-}
+},
+{"name": "ColorLine",
+ "price": 0,
+ type: 1,
+ actor: 1,
+ url:"wb",
+ action: 8,
+ pmnt: ["dateDefault: Value(price: 0, count: 1)"]}
 ]
