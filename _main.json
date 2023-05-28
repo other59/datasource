@@ -203,8 +203,8 @@
  },
  {"source":"BudgetObject",
   "UUID~":0,
-  "content":"convertDictionary2Json,URLSession upload,Datasource/A7A22Main",
-  "svt":"0,0,22",
+  "content":"convertDictionary2Json,URLSession upload,Datasource/A7A22A100_main",
+  "svt":"0,0,25",
   "url":"iPad/playground/Dict2Json",
   "action":["28-05-23","A100"],
   "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
