@@ -195,7 +195,7 @@
  },
  {"source":"BudgetObject",
   "UUID~":0,
-  "content":"fotoOnApp,svtOnApp,ProductOnApp,jsonAttrInA7,structA4:https://programmingwithswift.com/how-to-convert-dictionary-to-json-with-swift/,A14actionLOC,A14actionUpload,A9swiftLibWebContent",
+  "content":"fotoOnApp,svtOnApp,ProductOnApp,jsonAttrInA7,structA4:https://programmingwithswift.com/how-to-convert-dictionary-to-json-with-swift/,A14actionLOC&Type,A14actionUpload,A9swiftLibWebContent",
   "svt":"0,0,20",
   "url":"",
   "action":["28-05-23","A4"],
