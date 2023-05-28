@@ -195,7 +195,7 @@
  },
  {"source":"BudgetObject",
   "UUID~":0,
-  "content":"fotoOnApp,svtOnApp,jsonAttrInA7,structA4,A14actionLOC,A14actionUpload",
+  "content":"fotoOnApp,svtOnApp,ProductOnApp,jsonAttrInA7,structA4,A14actionLOC,A14actionUpload,A9swiftLibWebContent",
   "svt":"0,0,20",
   "url":"",
   "action":["28-05-23","A4"],
