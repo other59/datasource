@@ -212,7 +212,7 @@
  {"source":"BudgetObject",
   "UUID~":0,
   "content":"pensne,folga",
-  "svt":"0,0,13",
+  "svt":"0,0,33",
   "url":"iPad/playground/Dict2Json",
   "action":["28-05-23","A7"],
   "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
