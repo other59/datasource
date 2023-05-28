@@ -200,5 +200,13 @@
   "url":"",
   "action":["28-05-23","A4"],
   "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":false}
+ },
+ {"source":"BudgetObject",
+  "UUID~":0,
+  "content":"convertDictionary2Json",
+  "svt":"0,0,20",
+  "url":"iPad/playground/Dict2Json",
+  "action":["28-05-23","A100"],
+  "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
  }
 ]
