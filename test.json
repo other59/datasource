@@ -1,6 +1,7 @@
 {
-  "name":"Color",
-  "type": 13,
-  "actor": 1,
-  "action": 7
+  "name":"Parsing JSON Just Became Super Easy in Swift 4 with Decodable",
+  "type": 22,
+  "actor": "letsbuildthatapp.com",
+  "url":"https://www.letsbuildthatapp.com/videos/1562",
+  "action": 4
 }
