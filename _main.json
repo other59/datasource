@@ -1,4 +1,11 @@
-
+    {"source":"ntv",
+  "UUID~":0,
+  "content":"москва bonds выпуск",
+  "svt":"0,0,13",
+  "url":"template",
+  "action":["30-05-23","A7"],
+  "status":{"tag":"","mark":true,"cur":"","actor":"москва","fullfields":true}
+ },
   {"source":"template",
   "UUID~":0,
   "content":"template",
