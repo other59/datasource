@@ -16,7 +16,7 @@
  },
    {"source":"BudgetObject",
   "UUID~":0,
-  "content":"template",
+  "content":"swiftui-expandable-list-view",
   "svt":"0,0,13",
   "url":"https://www.appcoda.com/swiftui-expandable-list-view/",
   "action":["29-05-23","A2"],
