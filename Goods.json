@@ -1,4 +1,3 @@
-[
 {"name": "ColorLine",
  "type": 13,
  "actor": 1,
@@ -30,4 +29,3 @@ Product(name: "Keshu", price: 70, type: 13, actor: 1, url: "", action: 7,date: [
 Product(name: "кулеш,макароны флот,гречка, грибы, соус, рыба, мидии, сыр", price: 0, type: 13, actor: 1, url: "https://caterme.ru/articles/menju-9-maja https://market-da.ru/about/interaktivnyj-portal/recepty/neobychnye-zakuski-s-midiyami.html", action: 7,date:[dateSet(day:9,month:5,year:2023):0]): 0, 
 Product(name: "whiskey", price: 799, type: 13, actor: 1, url: "yes", action: 7,date:[dateSet(day:9,month:5,year:2023):799]): 1,Product(name: "2", price: 0, type: 13, actor: 5, url: "", action: 7,date:[dateSet(day:9,month:5,year:2023):0]):1,Product(name: "grechka-s-fasolyu", price: 0, type: 13, actor: 0, url: "https://nakormi.com/grechka-s-fasolyu.html", action: 30,  date:[dateSet(day:9,month:5,year:2023):0]):1, Product(name: "grechka-po-kupecheski", price: 0, type: 13, actor: 1, url: "https://www.russianfood.com/recipes/bytype/?fid=1696", action: 30,  date:[dateSet(day:9,month:5,year:2023):0]): 1, Product(name: "tuna", price: 59, type: 13, actor: 1, url: "rw", action: 8,  date:[dateSet(day:9,month:5,year:2023):59]): 1]
 }
-]
