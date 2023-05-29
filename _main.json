@@ -1,9 +1,18 @@
-[ {"source":"BudgetObject",
+
+  {"source":"template",
   "UUID~":0,
   "content":"template",
   "svt":"0,0,13",
-  "url":"iPad/playground/Dict2Json",
+  "url":"template",
   "action":["28-05-23","A7"],
+  "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
+ },
+   {"source":"BudgetObject",
+  "UUID~":0,
+  "content":"template",
+  "svt":"0,0,13",
+  "url":"https://www.appcoda.com/swiftui-expandable-list-view/",
+  "action":["29-05-23","A2"],
   "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
  },
   {"source":"",
@@ -206,4 +215,3 @@
   "action":["28-05-23","A7"],
   "status":{"tag":"swift","mark":true,"cur":"","actor":"user@iMac-User","fullfields":true}
  }
-]
