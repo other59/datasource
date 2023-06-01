@@ -1,4 +1,14 @@
 {
+  "source":"template",
+  "UUID~":0,
+  "content":"раскладушка, тостер, пенсне, смарт розетка, столик, colorLine,
+  ",
+  "svt":"0,0,13",
+  "url":"http://cikomsk.ru/",
+  "action":["02-06-23","A7:99"],
+  "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
+ },
+{
   "source":"https://www.wildberries.ru/catalog/14111127/detail.aspx",
   "UUID~":0,
   "content":"service table",
