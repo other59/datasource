@@ -1,7 +1,7 @@
 {
   "source":"template",
   "UUID~":0,
-  "content":"раскладушка, тостер, пенсне, смарт розетка, столик баскет, colorLine, граффити краска",
+  "content":["раскладушка, тостер, пенсне, смарт розетка, столик баскет, colorLine, граффити краска, расмка"],
   "svt":"0,0,13",
   "url":"http://cikomsk.ru/",
   "action":["02-06-23","A27:99"],
@@ -10,7 +10,7 @@
 {
   "source":"https://www.wildberries.ru/catalog/14111127/detail.aspx",
   "UUID~":0,
-  "content":"service table",
+  "content":["service table"],
   "svt":"0,0,13",
   "url":"",
   "action":["1-06-23","A7:"],
@@ -19,7 +19,7 @@
 {
   "source":"template",
   "UUID~":0,
-  "content":"seeds add photo",
+  "content":["seeds add photo"],
   "svt":"0,0,13",
   "url":"http://cikomsk.ru/",
   "action":["28-05-23","A7:99"],
@@ -27,7 +27,7 @@
  },
 {"source":"template",
   "UUID~":0,
-  "content":"toster",
+  "content":["toster"],
   "svt":"0,0,33",
   "url":"https://www.wildberries.ru/catalog/148380488/detail.aspx?targetUrl=MS&size=249223257",
   "action":["1-06-23","A7:930"],
@@ -36,7 +36,7 @@
 {
   "source":"template",
   "UUID~":0,
-  "content":"ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5",
+  "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5"],
   "svt":"0,0,33",
   "url":"https://www.wildberries.ru/catalog/67135931/detail.aspx",
   "action":["1-06-23","A7:3595"],
@@ -44,7 +44,7 @@
  },{
   "source":"template",
   "UUID~":0,
-  "content":"ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5",
+  "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5"],
   "svt":"0,0,33",
   "url":["https://www.wildberries.ru/catalog/102683124/detail.aspx","https://www.wildberries.ru/catalog/150159840/detail.aspx?targetUrl=GP&size=251814152"],
   "action":["1-06-23","A7:2958"],
