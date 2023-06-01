@@ -16,8 +16,8 @@
   "action":["1-06-23","A7",930],
   "status":{"tag":"","mark":false,"cur":"","actor":"user@iMac-User","fullfields":false}
  },
-""
-":"template",
+{
+  "source":"template",
   "UUID~":0,
   "content":"ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5",
   "svt":"0,0,33",
