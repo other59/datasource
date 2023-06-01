@@ -1,4 +1,12 @@
-
+{
+  "source":"https://www.wildberries.ru/catalog/14111127/detail.aspx",
+  "UUID~":0,
+  "content":"service table",
+  "svt":"0,0,13",
+  "url":"",
+  "action":["1-06-23","A7:"],
+  "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
+ },
 {
   "source":"template",
   "UUID~":0,
