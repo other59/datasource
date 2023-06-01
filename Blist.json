@@ -14,7 +14,7 @@
   "svt":"0,0,33",
   "url":"https://www.wildberries.ru/catalog/148380488/detail.aspx?targetUrl=MS&size=249223257",
   "action":["1-06-23","A7:930"],
-  "status":{"tag":"","mark":false,"cur":"","actor":"user@iMac-User","fullfields":false}
+  "status":{"tag":"","mark":false,"cur":"","actor":"wildberries","fullfields":false}
  },
 {
   "source":"template",
@@ -23,5 +23,5 @@
   "svt":"0,0,33",
   "url":"https://www.wildberries.ru/catalog/102683124/detail.aspx",
   "action":["1-06-23","A7:3595"],
-  "status":{"tag":"","mark":false,"cur":"","actor":"user@iMac-User","fullfields":false}
+  "status":{"tag":"","mark":false,"cur":"","actor":"wildberries","fullfields":false}
  }
