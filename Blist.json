@@ -8,6 +8,15 @@
   "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
  },
 {
+  "source":"template",
+  "UUID~":0,
+  "content":["раскладушка, тостер, пенсне баскет, пенсне, смарт розетка, столик баскет, colorLine, граффити краска, рамка"],
+  "svt":"0,0,13",
+  "url":"http://cikomsk.ru/",
+  "action":["02-06-23","A27:99"],
+  "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
+ },
+{
   "source":"https://www.wildberries.ru/catalog/14111127/detail.aspx",
   "UUID~":0,
   "content":["service table"],
@@ -36,17 +45,17 @@
 {
   "source":"template",
   "UUID~":0,
-  "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5"],
+  "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5(магнитный чехол)"],
   "svt":"0,0,33",
-  "url":"https://www.wildberries.ru/catalog/67135931/detail.aspx",
+  "url":"https://www.wildberries.ru/catalog/102683124/detail.aspx",
   "action":["1-06-23","A7:3595"],
-  "status":{"tag":"","mark":false,"cur":"","actor":"wildberries","fullfields":false}
+  "status":{"tag":"баскет iMac","mark":false,"cur":"","actor":"wildberries","fullfields":false}
  },{
   "source":"template",
   "UUID~":0,
   "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5"],
   "svt":"0,0,33",
   "url":["https://www.wildberries.ru/catalog/102683124/detail.aspx","https://www.wildberries.ru/catalog/150159840/detail.aspx?targetUrl=GP&size=251814152"],
-  "action":["1-06-23","A7:2958"],
+  "action":["1-06-23","A7:3595","1-06-23","A7:3745"],
   "status":{"tag":"","mark":false,"cur":"","actor":"wildberries","fullfields":false}
  }
