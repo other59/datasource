@@ -1,7 +1,7 @@
 curl -L \
   -X PUT \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer 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"\
+  -H "Authorization: Bearer TOKEN"\
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/other59/datasource/contents/anb \
   -d '{"message":"my commit message","committer":{"name":"Monalisa Octocat","email":"octocat@github.com"},"content":"bXkgbmV3IGZpbGUgY29udGVudHM="}'
@@ -10,7 +10,7 @@ Response:ok,look content, A14 encode content2Base64?
 curl -L \
   -X PUT \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer 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"\
+  -H "Authorization: Bearer TOKEN"\
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/other59/datasource/contents/anb2 \
   -d '{"message":"my commit message","committer":{"name":"Monalisa (anb) Octocat","email":"anburdasov@yahoo.com"},"content":"createFile,email anburdasov@yahoo.com"}'
@@ -20,7 +20,7 @@ Response:ok
 curl -L \
   -X PUT \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer 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"\
+  -H "Authorization: Bearer TOKEN"\
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/other59/datasource/contents/anb2 \
   -d '{"message":"my commit message","committer":{"name":"Monalisa (anb) Octocat","email":"anburdasov@yahoo.com"},"content":"createFile,email anburdasov@yahoo.com"}'
