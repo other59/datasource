@@ -13,6 +13,7 @@
   "UUID~":0,
   "content":"spagetti,tuna",
   "svt":"0,0,13",
+  "fact":0.0,
   "url":"https://www.youtube.com/watch?v=KnKYH_BshK4",
   "action":["03-06-23","A30:7"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -21,6 +22,7 @@
   "UUID~":0,
   "content":"",
   "svt":"0,0,33",
+  "fact":0.0,
   "url":"https://bestmarket.club/catalog/household/",
   "action":["02-06-23","A27:"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -30,6 +32,7 @@
   "UUID~":0,
   "content":"baloon paint 520, Plasticine, scetching markers",
   "svt":"0,0,33",
+  "fact":0.0,
   "url":"https://www.wildberries.ru/catalog/27415615/detail.aspx?targetUrl=GP&size=62681329",
   "action":["02-06-23","A7:376"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -39,6 +42,7 @@
   "UUID~":0,
   "content":["раскладушка, тостер, пенсне баскет, пенсне, смарт розетка, столик баскет, colorLine, граффити краска баскет mob, рамка, подшипник, швеллер алюминий"],
   "svt":"0,0,13",
+  "fact":0.0,
   "url":"http://cikomsk.ru/",
   "action":["02-06-23","A27:99"],
   "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -48,6 +52,7 @@
   "UUID~":0,
   "content":["service table"],
   "svt":"0,0,13",
+  "fact":0.0,
   "url":"",
   "action":["1-06-23","A7:"],
   "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -57,6 +62,7 @@
   "UUID~":0,
   "content":["seeds add photo"],
   "svt":"0,0,13",
+  "fact":0.0,
   "url":"http://cikomsk.ru/",
   "action":["28-05-23","A7:99"],
   "status":{"tag":"","mark":false,"cur":"","actor":"dixi","fullfields":false}
@@ -65,6 +71,7 @@
   "UUID~":0,
   "content":["toster"],
   "svt":"0,0,33",
+  "fact":0.0,
   "url":"https://www.wildberries.ru/catalog/148380488/detail.aspx?targetUrl=MS&size=249223257",
   "action":["1-06-23","A7:930"],
   "status":{"tag":"","mark":false,"cur":"","actor":"wildberries","fullfields":false}
@@ -74,6 +81,7 @@
   "UUID~":0,
   "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5(магнитный чехол)"],
   "svt":"0,0,33",
+  "fact":0.0,
   "url":"https://www.wildberries.ru/catalog/102683124/detail.aspx",
   "action":["1-06-23","A7:3595"],
   "status":{"tag":"баскет iMac","mark":false,"cur":"","actor":"wildberries","fullfields":false}
@@ -82,6 +90,7 @@
   "UUID~":0,
   "content":["ThinOptics Ультратонкие готовые очки для зрения и чтения +1.5"],
   "svt":"0,0,33",
+  "fact":0.0,
   "url":"https://www.wildberries.ru/catalog/150470571/detail.aspx?targetUrl=GP&size=252266423",
   "action":["1-06-23","A7:1700"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"wildberries","fullfields":false}
