@@ -53,6 +53,9 @@
   "48_server(+)",
   "49_stocks(+)",
   "50_bonds(+)",
+  "50.1_bonds(corp)",
+  "50.2_bonds(state)",
+  "50.3_bonds(+)",
   "51_options",
   "52_futures",
 "tags of types"]
