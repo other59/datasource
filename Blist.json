@@ -1,6 +1,15 @@
 {
   "source":"template",
   "UUID~":0,
+  "content":"газнпф1p4r",
+  "svt":"0,0,50",
+  "fact":0.0,
+  "url":"",
+  "action":["05-06-23","A7:999.0","01-09-23","A6:25.55"],
+  "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","fullfields":false}
+ },{
+  "source":"template",
+  "UUID~":0,
   "content":"азбукавкп2",
   "svt":"0,0,50",
   "fact":0.0,
