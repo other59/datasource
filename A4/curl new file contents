@@ -1,4 +1,5 @@
 "https://ru.wikipedia.org/wiki/Base64?wprov=sfti1"
+A9 GH blob SHA
 
 curl -L \
   -X PUT \
