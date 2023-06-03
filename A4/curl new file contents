@@ -1,6 +1,6 @@
 "https://ru.wikipedia.org/wiki/Base64?wprov=sfti1"
 A9 GH blob SHA
-
+del sha 329688480d39049927147c162b9d2deaf885005f
 curl -L \
   -X PUT \
   -H "Accept: application/vnd.github+json" \
