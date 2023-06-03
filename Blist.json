@@ -1,6 +1,16 @@
 {
   "source":"new investor",
   "UUID~":0,
+  "content":"газнпф3p1R",
+  "svt":"25,27,50",
+  "fact":0.0,
+  "n":0.0,
+  "url":"",
+  "action":["05-06-23","A7:-976.9","08-08-23","A6:17.9"],
+  "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0.71,"fullfields":false}
+ },{
+  "source":"new investor",
+  "UUID~":0,
   "content":"газнпф1p5r",
   "svt":"25,27,50",
   "fact":0.0,
