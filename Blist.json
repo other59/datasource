@@ -23,7 +23,7 @@
   "svt":"25,27,50",
   "fact":0.0,
   "n":0.0,
-  "url":"Ru000a0jxfs8",
+  "url":"url",
   "action":["05-06-23","A7:-1001.2","9-08-23","A6:44.38"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
  },{"source":"new investor,tcsg",
@@ -92,7 +92,7 @@
   "svt":"18,27,50",
   "fact":0.0,
   "n":0.0,
-  "url":"",
+  "url":"Ru000a105wr17",
   "action":["05-06-23","A7:-999.5","01-09-23","A6:25.55"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0,"fullfields":false}
  },
