@@ -5,7 +5,7 @@
   "fact":0.0,
   "n":0.0,
   "url":"Ru000a103661",
-  "action":["A7,05-06-23,-962.5","A6,19-06-23,36.9"],
+  "action":"A7,05-06-23,-962.5,A6,19-06-23,36.9",
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
  },
 {"source":"new investor,tcsg, ДОМОДЕДОВО ФьюэлФ 002Р-01,https://www.dohod.ru/individuals/mutual-funds/bpif/bond",
