@@ -1,11 +1,11 @@
-source":"new investor,tcsg",
+{source":"new investor,tcsg",
   "UUID~":0,
   "content":"аэрофьюэлз",
   "svt":"25,27,50",
   "fact":0.0,
   "n":0.0,
   "url":"Ru000a103sz7",
-  "action":["05-06-23","A7:-982","25-07-23","A6:40.39"],
+  "action":["05-06-23","A7:-950","29-06-23","A6:24.58"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0.71,"fullfields":false}
  },{
   "source":"new investor",
