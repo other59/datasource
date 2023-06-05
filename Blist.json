@@ -1,11 +1,11 @@
 {"source":"https://www.tinkoff.ru/invest/bonds/RU000A101ef3/",
   "UUID~":0,
-  "content":"сбер",
+  "content":"металлинвест",
   "svt":"9,27,50",
   "fact":0.0,
   "n":0.0,
   "url":"RU000A103G75",
-  "action":"A7,05-06-23,-999.6,A6,4-08-23,36.4",
+  "action":"A7,05-06-23,-933,A6,9-08-23,32.68",
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
  },{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103G75/",
   "UUID~":0,
