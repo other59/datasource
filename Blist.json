@@ -1,3 +1,14 @@
+
+{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103HT3/",
+  "UUID~":0,
+  "content":"mvideo",
+  "svt":"9,27,50",
+  "fact":0.0,
+  "n":0.0,
+  "url":"RU000A100VQ6",
+  "action":"A7,05-06-23,-946.6,A6,9-09-23,20.19",
+  "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
+ },
 {"source":"https://www.tinkoff.ru/invest/bonds/RU000A100VQ6/",
   "UUID~":0,
   "content":"nikel",
@@ -7,7 +18,8 @@
   "url":"RU000A100VQ6",
   "action":"A7,05-06-23,-986.8,A6,26-09-23,35.9",
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103G75/",
+ },
+{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103G75/",
   "UUID~":0,
   "content":"сбер",
   "svt":"9,27,50",
