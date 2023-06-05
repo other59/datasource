@@ -37,7 +37,8 @@
   "url":"RU000A103G75",
   "action":"A7,05-06-23,-933,A6,9-08-23,32.68",
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103G75/",
+ },
+{"source":"https://www.tinkoff.ru/invest/bonds/RU000A103G75/",
   "UUID~":0,
   "content":"сбер",
   "svt":"9,27,50",
@@ -57,7 +58,7 @@
   "action":"A7,05-06-23,-962.5,A6,19-06-23,36.9",
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
  },
-{"source":"new investor,tcsg, ДОМОДЕДОВО ФьюэлФ 002Р-01,https://www.dohod.ru/individuals/mutual-funds/bpif/bond",
+{"source":"new investor,tcsg,
   "UUID~":0,
   "content":"мвидео",
   "svt":"25,27,50",
@@ -86,7 +87,8 @@
   "url":"Ru000a1017j5",
   "action":["05-06-23","A7:-879.6","16-06-23","A6:17.83"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{"source":"new investor,tcsg",
+ },
+{"source":"new investor,tcsg",
   "UUID~":0,
   "content":"газпромКБ5",
   "svt":"25,27,50",
@@ -95,7 +97,8 @@
   "url":"url",
   "action":["05-06-23","A7:-1001.2","9-08-23","A6:44.38"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{"source":"new investor,tcsg",
+ },
+{"source":"new investor,tcsg",
   "UUID~":0,
   "content":"аэрофьюэлз",
   "svt":"25,27,50",
@@ -104,7 +107,8 @@
   "url":"Ru000a103sz7",
   "action":["05-06-23","A7:-950","29-06-23","A6:24.58"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"газпромБ22",
@@ -114,7 +118,8 @@
   "url":"",
   "action":["A21.1":"1993","05-06-23","A7:-982","25-07-23","A6:40.39"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"газнпф3p2R",
@@ -124,7 +129,8 @@
   "url":"",
   "action":["05-06-23","A7:-879.6","16-06-23","A6:17.83"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"газнпф3p1R",
@@ -134,7 +140,8 @@
   "url":"",
   "action":["05-06-23","A7:-976.9","08-08-23","A6:17.9"],
   "status":{"tag":"basket mob","mark":false,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"газнпф1p5r",
@@ -144,7 +151,8 @@
   "url":"",
   "action":["05-06-23","A7:-1020","19-06-23","A6:38.39"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"газнпф1p4r",
@@ -154,7 +162,8 @@
   "url":"",
   "action":["05-06-23","A7:-990.2","15-06-23","A6:38.39"],
   "status":{"tag":"basket mob","mark":true,"cur":"","actor":"moex","p":0.71,"fullfields":false}
- },{
+ },
+{
   "source":"new investor",
   "UUID~":0,
   "content":"азбукавкп2",
