@@ -1,5 +1,15 @@
 {"sample":[
   {
+  "Isin":"https://www.tinkoff.ru/invest/bonds/РСХБ",
+  "Emit":"РСХБ",
+  "dCoup":[""],
+  "dCoupE":"",
+  "Price":0,
+  "Coupon":0,
+  "status":"A7:0",
+  "PY":0
+  },
+  {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104B46/",
   "Emit":"Газпромбанк 001Р-21Р",
   "dCoup":["2023-06-27","2023-09-14","2023-03-29"],
