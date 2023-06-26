@@ -20,7 +20,7 @@
   "PY":2
 },
   {
-  "Isin":"RU000A103be8",
+  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A103BE8/",
   "Emit":"ВТБ Б-1-231",
   "dCoup":["2023-06-30","2023-09-29","2023-03-29"],
   "dCoupE":"2024-06-28",
