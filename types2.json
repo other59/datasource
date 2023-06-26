@@ -30,13 +30,13 @@
   "PY":2
   },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104B46/",
+  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104XR2/",
   "Emit":"Автодор БО-3 выпуск 2",
   "dCoup":["2023-08-5","2023-09-14","2023-03-29"],
   "dCoupE":"2027-07-01",
   "Price":1018.9,
   "Coupon":53.1,
-  "status":"A7:1,A7S:0,S:10,V:14,T:50.1",
+  "status":"A7:0,A7S:LL,S:10,V:14,T:50.1",
   "PY":2
   },
   {
