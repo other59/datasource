@@ -133,7 +133,7 @@
   "status":"A7T:2023-06-30,S:,V:14,T:50,JSD:100",
   "PY":3
 },
-  {
+{
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104FX7/coupons/",
   "Emit":"ADevelopment",
   "dCoup":["2023-06-27","2023-10-26","2023-03-29"],
@@ -181,18 +181,6 @@
   "Coupon":39.39,
   "status":"A7T:2023-06-29,S:10,V:14,T:50.1,JSD:100",
   "PY":2
-},
-{
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A105NA6/",
-  "Emit":"mts",
-  "dCoup":["2023-06-29","2023-09-29","2023-03-29"],
-  "dCoupE":"2024-06-28",
-  "Price":996.8,
-  "Nkd":1.6,
-  "n":1,
-  "Coupon":20.94
-  "status":"A7T:2023-06-28,A7T:2023-06-15,A7P:-1017.69,A7T:2023-06-26,A7P:1697.11,JSD:100",
-  "PY":3
 }
 ]
 }
