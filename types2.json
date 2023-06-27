@@ -28,7 +28,7 @@
   {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104Z48/",
   "Emit":"вэб.рф",
-  "dCoup":["2023-07-20"],
+  "dCoup":["2023-07-20",""],
   "dCoupE":"2027-07-15",
   "Price":1017,
   "Nkd":44.7,
@@ -100,7 +100,7 @@
   {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104B46/",
   "Emit":"Газпромбанк 001Р-21Р",
-  "dCoup":["2023-06-27","2023-09-14","2023-03-29"],
+  "dCoup":["2023-06-27","2023-09-14"],
   "dCoupE":"2027-12-09",
   "Price":1008.2,
   "Nkd":22.6,
@@ -124,7 +124,7 @@
   {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A103BE8/",
   "Emit":"ВТБ Б-1-231",
-  "dCoup":["2023-06-30","2023-09-29","2023-03-29"],
+  "dCoup":["2023-06-30","2023-09-29"],
   "dCoupE":"2024-06-28",
   "Price":997,
   "Nkd":18.3,
@@ -136,7 +136,7 @@
 {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104FX7/coupons/",
   "Emit":"ADevelopment",
-  "dCoup":["2023-06-27","2023-10-26","2023-03-29"],
+  "dCoup":["2023-06-27","2023-10-26"],
   "dCoupE":"2025-01-23",
   "Price":999.4,
   "Nkd":22.6,
@@ -148,7 +148,7 @@
   {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A105H23/",
   "Emit":"дом.рф",
-  "dCoup":["2023-06-28","2023-09-29","2023-03-29"],
+  "dCoup":["2023-06-28","2023-09-29"],
   "dCoupE":"2024-06-28",
   "Price":863,
   "Nkd":22.6,
@@ -161,7 +161,7 @@
 {
   "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A1060X6/coupons/",
   "Emit":"Озон",
-  "dCoup":["2023-06-30","2023-09-29","2023-03-29"],
+  "dCoup":["2023-06-30","2023-09-29"],
   "dCoupE":"2024-06-28",
   "Nkd":22.6,
   "n":1,
