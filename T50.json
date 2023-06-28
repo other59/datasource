@@ -44,5 +44,20 @@
     "date":"2023-06-28",
     "jsd":100,
     "status":"S:,A7"
+  },
+   {
+    "IsinPre":"RU000A",
+    "Isin":"101wh1",
+    "Emit":"гидромашсервис",
+    "broker":"https://www.tinkoff.ru/",
+    "profit":11.38,
+    "nominal":1000,
+    "price":998.9,
+    "nkd":38,
+    "coupon":40.64,
+    "dCoup":["2023-07-11"],
+    "date":"2023-06-28",
+    "jsd":100,
+    "status":"S:,A7"
   }
 ]}
