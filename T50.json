@@ -1,6 +1,16 @@
 {"sample":[
   {"Isin":"https://www.tinkoff.ru/invest/recommendations/?query=RU000A"},
   {
-    "Isin":""
+    "IsinPre":"RU000A",
+    "Isin":"1028c7",
+    "Emit":"qiwi",
+    "broker":"",
+    "profit":0,
+    "nominal":0,
+    "price":0.0,
+    "coupon":20.94,
+    "dCoup":["2023-07-11"],
+    "date":"2023-06-28",
+    "status":"S:,"
   }
 ]}
