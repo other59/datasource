@@ -1,1 +1,6 @@
-{"sample":[]}
+{"sample":[
+  {"Isin":"https://www.tinkoff.ru/invest/recommendations/?query=RU000A"},
+  {
+    "Isin":""
+  }
+]}
