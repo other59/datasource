@@ -29,5 +29,20 @@
     "date":"2023-06-28",
     "jsd":100,
     "status":"S:,A7"
+  },
+  {
+    "IsinPre":"RU000A",
+    "Isin":"103dp0",
+    "Emit":"камаз",
+    "broker":"https://www.tinkoff.ru/",
+    "profit":8.46,
+    "nominal":1000,
+    "price":1000,
+    "nkd":18.2,
+    "coupon":20.89,
+    "dCoup":["2023-07-10"],
+    "date":"2023-06-28",
+    "jsd":100,
+    "status":"S:,A7"
   }
 ]}
