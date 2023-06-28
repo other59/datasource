@@ -1,5 +1,7 @@
 {"sample":[
-  {"Isin":"invest/recommendations/?query=RU000A"},
+  {"Isin":"invest/recommendations/?query=RU000A",
+    "status":"A9:RU"
+  },
   {
     "IsinPre":"RU000A",
     "Isin":"1028c7",
@@ -63,7 +65,7 @@
   {
     "IsinPre":"RU000A",
     "Isin":"103du0",
-    "Emit":"росбане",
+    "Emit":"росбанк",
     "broker":"https://www.tinkoff.ru/",
     "profit":6.43,
     "nominal":1000,
