@@ -65,8 +65,8 @@
   },
   {
     "IsinPre":"RU000A",
-    "Isin":"103du0",
-    "Emit":"росбанк",
+    "Isin":"100HY9",
+    "Emit":"ржд",
     "broker":"https://www.tinkoff.ru/",
     "profit":6.43,
     "nominal":1000,
@@ -89,6 +89,21 @@
     "nkd":25.2,
     "coupon":28.62,
     "dCoup":["2023-07-21"],
+    "date":"2023-06-28",
+    "jsd":100,
+    "status":"S:,A7"
+  },
+  {
+    "IsinPre":"RU000A",
+    "Isin":"101wf5",
+    "Emit":"вэб.рф",
+    "broker":"https://www.tinkoff.ru/",
+    "profit":9.55,
+    "nominal":1000,
+    "price":963.4,
+    "nkd":0,
+    "coupon":39.39,
+    "dCoup":["2023-06-29"],
     "date":"2023-06-28",
     "jsd":100,
     "status":"S:,A7"
