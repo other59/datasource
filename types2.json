@@ -1,6 +1,6 @@
 {"sample":[
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A102Y58/coupons/",
+  "Isin":"RU000A102Y58",
   "Emit":"Брусника выпуск 2",
   "dCoup":["2023-07-03","2023-10-14"],
   "dCoupE":"2024-01-04",
@@ -13,7 +13,7 @@
   }
   ,
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A1062M5/",
+  "Isin":"RU000A1062M5",
   "Emit":"Селигдар Золотые облигации",
   "dCoup":["2023-07-07","2023-10-06"],
   "dCoupE":"2027-07-14",
@@ -26,7 +26,7 @@
   }
   ,
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104Z48/",
+  "Isin":"RU000A104Z48",
   "Emit":"вэб.рф",
   "dCoup":["2023-07-20",""],
   "dCoupE":"2027-07-15",
@@ -38,7 +38,7 @@
   "PY":1
   },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A1065B1/",
+  "Isin":"RU000A1065B1",
   "Emit":"Асфальтобетонный завод № 1 выпуск 4",
   "dCoup":["2023-07-25","2023-10-24"],
   "dCoupE":"2026-04-21",
@@ -50,7 +50,7 @@
   "PY":2
   },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104Yt6/",
+  "Isin":"RU000A104Yt6",
   "Emit":"SMT",
   "dCoup":["2023-07-14","2023-10-13"],
   "dCoupE":"2027-07-14",
@@ -62,7 +62,7 @@
   "PY":2
   },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104Y15/",
+  "Isin":"RU000A104Y15",
   "Emit":"Белуга Групп",
   "dCoup":["2023-07-11","2023-01-09"],
   "dCoupE":"2027-07-11",
@@ -74,7 +74,7 @@
   "PY":2
   },
    {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104XR2/",
+  "Isin":"RU000A104Y15",
   "Emit":"Автодор БО-3 выпуск 2",
   "dCoup":["2023-08-5","2023-09-14","2023-03-29"],
   "dCoupE":"2027-07-01",
@@ -98,7 +98,7 @@
   "PY":1
   },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104B46/",
+  "Isin":"RU000A104B46",
   "Emit":"Газпромбанк 001Р-21Р",
   "dCoup":["2023-06-27","2023-09-14"],
   "dCoupE":"2027-12-09",
@@ -110,7 +110,7 @@
   "PY":2
   },
    {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A105M67/",
+  "Isin":"RU000A105M67",
   "Emit":"Группа Черкизово",
   "dCoup":["2023-06-30","2023-09-14"],
   "dCoupE":"2027-12-09",
@@ -122,7 +122,7 @@
   "PY":2
 },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A103BE8/",
+  "Isin":"RU000A103BE8",
   "Emit":"ВТБ Б-1-231",
   "dCoup":["2023-06-30","2023-09-29"],
   "dCoupE":"2024-06-28",
@@ -134,7 +134,7 @@
   "PY":3
 },
 {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A104FX7/coupons/",
+  "Isin":"RU000A104FX7",
   "Emit":"ADevelopment",
   "dCoup":["2023-06-27","2023-10-26"],
   "dCoupE":"2025-01-23",
@@ -146,7 +146,7 @@
   "PY":2
 },
   {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A105H23/",
+  "Isin":"RU000A105H23",
   "Emit":"дом.рф",
   "dCoup":["2023-06-28","2023-09-29"],
   "dCoupE":"2024-06-28",
@@ -159,7 +159,7 @@
   "PY":12
 },
 {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A1060X6/coupons/",
+  "Isin":"RU000A1060X6",
   "Emit":"Озон",
   "dCoup":["2023-06-30","2023-09-29"],
   "dCoupE":"2024-06-28",
@@ -171,7 +171,7 @@
   "PY":3
 },
 {
-  "Isin":"https://www.tinkoff.ru/invest/bonds/RU000A100HY9/",
+  "Isin":"RU000A100HY9",
   "Emit":"ржд",
   "dCoup":["2023-06-29","2023-12-28"],
   "dCoupE":"2024-06-28",
