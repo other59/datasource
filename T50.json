@@ -59,5 +59,20 @@
     "date":"2023-06-28",
     "jsd":100,
     "status":"S:,A7"
+  },
+  {
+    "IsinPre":"RU000A",
+    "Isin":"103du0",
+    "Emit":"росбане",
+    "broker":"https://www.tinkoff.ru/",
+    "profit":6.43,
+    "nominal":1000,
+    "price":1005,
+    "nkd":34.8,
+    "coupon":38.1,
+    "dCoup":["2023-07-16"],
+    "date":"2023-06-28",
+    "jsd":100,
+    "status":"S:,A7"
   }
 ]}
