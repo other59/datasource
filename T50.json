@@ -1,4 +1,19 @@
-{"sample":[
+{"sample":["smlt",
+  {
+    "IsinPre":"RU000A",
+    "Isin":"103RD6",
+    "Emit":"ДОМ.РФ",
+    "broker":"https://www.tinkoff.ru/invest/bonds/",
+    "profit":9.95,
+    "nominal":1000,
+    "price":990.4,
+    "nkd":10.1,
+    "coupon":40.33,
+    "dCoup":["2023-11-23"],
+    "date":"2023-06-29",
+    "jsd":100,
+    "status":["1","S:,A7"]
+  },
   {
     "IsinPre":"RU000A",
     "Isin":"104Z48",
