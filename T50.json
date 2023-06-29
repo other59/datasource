@@ -1,6 +1,21 @@
 {"sample":[
   {
     "IsinPre":"RU000A",
+    "Isin":"104Z48",
+    "Emit":"ВЭБ.РФ",
+    "broker":"https://www.tinkoff.ru/invest/bonds/",
+    "profit":9.95,
+    "nominal":1000,
+    "price":1016,
+    "nkd":45.3,
+    "coupon":50.86,
+    "dCoup":["2023-07-20"],
+    "date":"2023-06-29",
+    "jsd":100,
+    "status":["1","S:,A7"]
+  },
+  {
+    "IsinPre":"RU000A",
     "Isin":"1028c7",
     "Emit":"qiwi",
     "broker":"https://www.tinkoff.ru/invest/bonds/",
