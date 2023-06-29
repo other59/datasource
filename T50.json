@@ -1,6 +1,21 @@
 {"sample":[
   {
     "IsinPre":"RU000A",
+    "Isin":"104YT6",
+    "Emit":"Самолет БО-П12",
+    "broker":"https://www.tinkoff.ru/invest/bonds/",
+    "profit":10.7,
+    "nominal":1000,
+    "price":1053.5,
+    "nkd":28,
+    "coupon":33.03,
+    "dCoup":["2023-07-14"],
+    "date":"2023-06-29",
+    "jsd":100,
+    "status":["1","S:,A7,types2/smlt,RU000A103125,RU000A1005L6,RU000A102S80,RU000A100HY9/ржд,39.39,2,2023-06-29,,RU000A1065B1/Асфальтзавод № 1 выпуск 4,34.36,2,2023-07-25"]
+  },
+  {
+    "IsinPre":"RU000A",
     "Isin":"103RD6",
     "Emit":"ДОМ.РФ",
     "broker":"https://www.tinkoff.ru/invest/bonds/",
