@@ -1,12 +1,12 @@
 {"sample":[
       {
-  "IsinPre":"RU000A",
-  "Isin":"0JXFS8",
+  "IsinPre":"",
+  "Isin":"",
   "Emit":"Про облигацию Автобан-Финанс выпуск 1",
   "broker":"https://www.tinkoff.ru/invest/bonds/RU000A0JXQ51/",
-  "profit":9.35,
+  "profit"0,
   "nominal":1000,
-  "price":996,
+  "price":999,
   "nkd":30,
   "coupon":49.86,
   "dCoup":["2023-07-11","2023-08-09","2024-02-07","2023-03-28","2027-02-03"],
