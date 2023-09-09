@@ -1,5 +1,7 @@
 # topforecast sport
 - https://vprognoze.ru/topforecast/6448907-germaniya-serbiya.html
+# bookmakers/rate
+- https://vprognoze.ru/
 # winline
 - https://m.winline.ru/auth/registration/?a_id=8319&b_id=e6e49503&erid=LjN8KMVUM
 # leon
