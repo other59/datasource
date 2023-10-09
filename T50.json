@@ -1,4 +1,32 @@
-{"sample":[
+{"sample":[{
+    "name":"рсхб 09T71",
+    "url":"https://www.tinkoff.ru/invest/bonds/RU000A0ZZ505?utm_source=security_share",
+    "price":788,
+    "nkd":43.4,
+    "cost":0,
+    "payP":["2023-10-19T00:00:00Z"],
+    "payF":"2023-10-19T00:00:00Z",
+    "saleF":0,
+    "period":0,
+    "redemption":"2028-04-13T00:00:00Z",
+    "action":[7.13],
+    "coupon":44.88,
+    "n":1
+  }, {
+      "name":"сибур",
+      "url":"https://www.tinkoff.ru/invest/bonds/RU000A104XW2?utm_source=security_share",
+      "price":939.2,
+      "nkd":0.8,
+      "cost":948.9,
+      "payP":["2024-01-05T00:00:00Z"],
+      "payF":"2024-01-05T00:00:00Z",
+      "saleF":0,
+      "period":0,
+      "redemption":"2026-01-20T00:00:00Z",
+      "action":[-7.13],
+      "coupon":22.81,
+      "n":1
+    },
           {
   "IsinPre":"",
   "Isin":"",
