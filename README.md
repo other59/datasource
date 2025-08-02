@@ -1,6 +1,6 @@
 # aidata
 - https://aidata.me/
-# topforecast sport
+DMP (Data Management Platform) система, которая хранит, структурирует, сегментирует данные всех типов, а также обогащает и расширяет собственные аудиторные сегменты.# topforecast sport
 - https://vprognoze.ru/topforecast/6448907-germaniya-serbiya.html
 # bookmakers/rate
 - https://vprognoze.ru/
