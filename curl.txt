@@ -1,1 +1,2 @@
-curl "https://raw.githubusercontent.com/other59/datasource/main/A7.json"
+curl "https://raw.githubusercontent.com/other59/datasource/main/T5011.json"
+T5011.json
