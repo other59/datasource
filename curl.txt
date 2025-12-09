@@ -1,3 +1,3 @@
 curl "https://raw.githubusercontent.com/other59/datasource/main/T5011.json"
-
+curl "https://raw.githubusercontent.com/other59/datasource/main/_main.json"
 curl "https://raw.githubusercontent.com/other59/datasource/main/T50.json"
